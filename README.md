@@ -12,7 +12,7 @@ The "revChatGPT" GitHub repository is a reverse-engineered version of the OpenAI
 https://github.com/ChatGPT-Hackers/ChatGPT-API-server
 The "ChatGPT API Server" GitHub repository is a server that allows to interact with ChatGPT models. This package can be installed by golang installing the package or by building it from the source. Once it is installed it can be run by providing a port number and an API key. The package also includes a Firefox agent and a Python-based client. The package provides various endpoints for making ChatGPT requests, adding and deleting users and tokens, and getting all the connections. The package also includes an admin key that can be used for authentication. This repo is written in 100% golang.
 
-3. Manually copying and pasting the 21 prompts ("p01.txt"..."p21.txt") into Chat GPT's browser interface.  Given that this dataset is rather small, the manual "copy and paste" approach may actually be the easiest of the three approaches.
+3. Manually copying and pasting the 21 prompts ("p01.txt"..."p21.txt") into Chat GPT's browser interface at https://chat.openai.com .  Given that this dataset is rather small, the manual "copy and paste" approach may actually be the easiest of the three approaches.
 
 Brief summary of the story told by test-dataset-01:
 
